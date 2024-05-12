@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil, I am a Data Scientist at E.ON. I'm using machine learining to improve NPS </h1>
+<h1 align="center">Hi 👋, I'm Kamil, I am a Data Scientist at E.ON. I'm using machine learning to improve NPS </h1>
 <h2 align="center"> I have a strong foundation in computer science and econometrics. Previously, I worked as a Junior Data Scientist at GFK and Model Developer at ING Hubs Poland. During my studies I participated in an Erasmus exchange program in Prague. I gained valuable experience as a Data Analyst during an internship at ING Tech Poland. My passion for hackathons led me to achieve second place in the SGH Business Challenge and top 6 in the ING Lion's Den Modeling Challenge. Excited to contribute and further develop my skills in the dynamic field of model development. </h2>
 <h3 align="center">I'm passionate about Python. Currently, I am working on a side project with e commerce data</h3>
 
